@@ -13,10 +13,4 @@ In the folder the following files are present:
 ●	Classification.ipynb : It includes sections for text representation and dataset splitting for classification, multiclass classification, and binary classification (with the various implemented models)
 ●	Topic_modelling.ipynb : It includes sections for text representation for LDA and LSA, and the models used are: LDA, LSA, and BERTopic.
 
--	In a subfolder named “files_csv” you can find the datasets.: 
-○	preprocessed.csv : Dataset resulting from the Preparing_data.ipynb
-○	Having performed two different samplings, we obtained two datasets that were used in the subsequent sections.
-■	binaria.csv : Used in the classification section
-■	multiclasse.csv : Used in both classification and topic modeling.
-
 All packages and libraries are loaded at the beginning of the code files. In case they are not already installed, they can be installed using the standard procedure.
