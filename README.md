@@ -1,7 +1,5 @@
 AMAZON FINE FOOD REVIEWS: TEXT CLASSIFICATION AND TOPIC MODELING 
 
-Francesco Paolo Luigi Caruso 906416, Samir Doghmi 897358, Davide Prati 845926
-
 
 In the folder the following files are present:
 
